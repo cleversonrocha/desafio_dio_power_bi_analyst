@@ -30,5 +30,5 @@ Focado na saúde financeira e sazonalidade.
 ![Página 2](desafio_dio_power_bi_analyst_2.jpg)
 
 ## 🚀 Como visualizar
-1. [Clique aqui para baixar o projeto (.pbix)]([https://github.com/cleversonrocha/desafio_dio_power_bi_analyst/blob/main/projeto_sample_financials.pbix?raw=true])
+1. [Clique aqui para baixar o projeto (.pbix)](https://github.com/cleversonrocha/desafio_dio_power_bi_analyst/blob/main/projeto_sample_financials.pbix?raw=true)
 2. Abra no **Power BI Desktop**.
